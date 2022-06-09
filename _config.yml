@@ -1,12 +1,4 @@
-theme: zmdlw's blog
+theme: jekyll-theme-minimal
 title: zmdlw's homepage
 description: Bookmark this to keep an eye on my project updates!
 author: zmdlw
-language: en
-timezone: ''
-
-...
-deploy:
-  type: git
-  repo: https://github.com/zmdlw/zmdlw.github.io
-  branch: master
