@@ -5,4 +5,8 @@ author: zmdlw
 language: en
 timezone: ''
 
-url: 
+...
+deploy:
+  type: git
+  repo: https://github.com/zmdlw/zmdlw.github.io
+  branch: master
